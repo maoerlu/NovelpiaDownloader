@@ -1,3 +1,13 @@
+## ⚠️ Important Notice
+
+This is an **unofficial fork** of the original project by SpazzTL (which itself is a fork of CjangCjengh's work).
+
+- **Original Author**: SpazzTL
+- **Reason for Fork**: Fixes compatibility issues due to website changes and several existing bugs
+- **License Status**: The original project has no open-source license. This fork is a temporary backup/fix.
+- **Source Code**: The code is publicly available (as required by GitHub Fork), but users are encouraged to download from the [Releases](https://github.com/YOUR_USERNAME/NovelpiaDownloader/releases) page for convenience.
+- **Contact**: If the original author wishes to merge or remove this fork, please open an Issue or contact me directly.
+
 (All credit goes to @[CjangCjengh](https://github.com/CjangCjengh))
 
 # [한국어]
